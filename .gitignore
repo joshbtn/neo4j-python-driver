@@ -25,3 +25,4 @@ neo4j-community-*
 neo4j-enterprise-*
 
 *.so
+conda-bld
